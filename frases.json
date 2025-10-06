@@ -1,0 +1,23 @@
+{
+  "info": {
+    "versao": "1.0",
+    "ultima_atualizacao": "2025-10-06",
+    "observacao": "Este arquivo contém frases sorteadas pelo app. As entradas dentro de 'exemplos' servem apenas como referência de formatação e não são usadas no jogo."
+  },
+
+  "exemplos": {
+    "negrito": "Você encontrou <b>um tesouro</b> escondido!",
+    "italico": "Avance até o <i>castelo dourado</i>.",
+    "cor": "Oh não! <color=red>Perde uma rodada!</color>",
+    "tamanho": "<size=120>Parabéns!</size> Você ganhou o prêmio.",
+    "multilinha": "Você ganhou um turno extra!\nJogue novamente.",
+    "misto": "<b><color=#FFD700>Você brilhou!</color></b>\nAvance três casas."
+  },
+  "frases": [
+    "<b>O PAU COMEU E VOCÊ CORREU!</b> \nEnquanto os outros jogadores duelavam você avançou uma casa.",
+    "Perca uma rodada!",
+    "Volte para o início!",
+    "Ganhe 500 moedas!",
+    "Troque de lugar com outro jogador!"
+  ]
+}
