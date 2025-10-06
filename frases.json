@@ -14,10 +14,11 @@
     "misto": "<b><color=#FFD700>Você brilhou!</color></b>\nAvance três casas."
   },
   "frases": [
-    "<b>O PAU COMEU E VOCÊ CORREU!</b> \nEnquanto os outros jogadores duelavam você avançou uma casa.",
-    "Perca uma rodada!",
-    "Volte para o início!",
-    "Ganhe 500 moedas!",
-    "Troque de lugar com outro jogador!"
+    "<b>O PAU COMEU E VOCÊ CORREU!</b> \nEnquanto os outros jogadores duelavam, você, O ESPERTINHO, <b>avançou 1 casa</b>.",
+    "<b>VAI PENSANDO QUE O JOGO TA GANHO...</b> \nDuele com o animal que estiver mais próximo ao Panteão dos Magos do Tempo. *Se dois ou mais jogadores estiverem nesta posição, duele com o mais iludido.",
+    "<b>E O VENTO LEVOU...</b> \nA sua chance de jogar \n<b>Passe a vez para um animal à sua escolha</b>.",
+    "<b>HÁ MALES QUE VEM PARA O BEM</b> \nVocê e todos os demias jogadores passam as suas armas para o jogador à sua direita.",
+    "<b>DÉJÀ VU!</b> \nAcho que já estive aqui... \nE esteve mesmo, azarado! \n<b>Volte 2 casas.</b>."
   ]
 }
+
