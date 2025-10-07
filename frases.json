@@ -1,6 +1,6 @@
 {
   "info": {
-    "versao": "1.0",
+    "versao": "1.5",
     "ultima_atualizacao": "2025-10-07",
     "observacao": "Este arquivo contém as frases sorteadas pelo app. As entradas dentro de 'exemplos' servem como referência de formatação e não são usadas no jogo."
   },
@@ -66,3 +66,4 @@
     "<b>ELA TÁ TÃO NA SUUUUUUAA!!</b>\\nEscolha um jogador para receber o presente de <b>avançar 1 casa</b>... mas sem segundas intenções, ok?\\n*piscadinha*"
   ]
 }
+
