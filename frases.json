@@ -2,7 +2,7 @@
   "info": {
     "versao": "2.0",
     "ultima_atualizacao": "2025-10-31",
-    "observacao": "Agora com suporte a múltiplos baralhos temáticos! O baralho 'base' contém todas as cartas originais. Os demais (animações, geek, natal) são expansões opcionais."
+    "observacao": "Este arquivo contém frases sorteadas pelo app. As entradas dentro de 'exemplos' servem apenas como referência de formatação e não são usadas no jogo."
   },
 
   "exemplos": {
@@ -17,100 +17,88 @@
   "baralhos": {
     "base": {
       "ativo": true,
-      "nome": "🐾 Baralho Base",
-      "descricao": "O clássico Vaitêquiduelá. Ditados populares e caos garantido.",
+      "descricao": "Conjunto original de cartas com ditados e expressões brasileiras.",
       "frases": [
-    "<b>O PAU COMEU E VOCÊ CORREU</b>\\nEnquanto os outros duelavam, você, o espertinho, <b>avançou 1 casa</b>.",
-    "<b>VAI PENSANDO QUE O JOGO TÁ GANHO...</b>\\nDuele com o animal que estiver mais próximo ao Panteão dos Magos do Tempo.\\n<b>Se dois ou mais jogadores estiverem nesta posição, duele com o mais iludido</b>.",
-    "<b>VAI TÊ QUE DUELÁ #DIY (FAÇA VOCÊ MESMO)</b>\\nVocê e mais 2 jogadores à sua escolha duelam simultaneamente, usando apenas armas caseiras.\\nO vencedor <b>avança 2 casas</b>, o segundo <b>avança 1</b>, já o terceiro… melhore para a próxima rodada.",
-    "<b>E O VENTO LEVOU...</b>\\nA sua chance de jogar.\\nRespire e não pire.\\n<b>Passe a vez para um animal à sua escolha</b>.",
-    "<b>HÁ MALES QUE VÊM PARA O BEM</b>\\nVocê e todos os demais jogadores passam suas armas para o jogador à sua direita.",
-    "<b>O LIXO DE UM É O OURO DOS OUTROS</b>\\nDuele com o animal que estiver mais distante do Panteão dos Magos do Tempo, utilizando a sua arma de menor valor.\\n<b>Se dois ou mais jogadores estiverem nesta posição, duele com o mais brilhante</b>.",
-    "<b>DÉJÀ VU!</b>\\nAcho que já estive aqui...\\nE esteve mesmo, azarado!\\n<b>Volte 2 casas</b>.",
-    "<b>ÁGUAS PASSADAS NÃO MOVEM MOINHOS...</b>\\ne nem você.\\n<b>Fique exatamente como está e deixe o próximo animal jogar</b>.",
-    "<b>A CORDA SEMPRE ARREBENTA DO LADO MAIS FRACO</b>\\nTodos os jogadores, exceto você, o sortudão, <b>voltam 1 casa</b>.",
-    "<b>ÁGUA MOLE EM PEDRA DURA, TANTO BATE ATÉ QUE FURA</b>\\nOs dois animais mais próximos do Panteão dos Magos do Tempo duelam.\\nMas atenção! O perdedor <b>volta 1 casa</b> e o vencedor <b>avança 1 casa</b>.",
-    "<b>AMIGOS, AMIGOS... NEGÓCIOS À PARTE</b>\\nDuele com o animal que estiver mais próximo ou na mesma casa que você.\\n<b>Se houver dois ou mais jogadores nessa posição, escolha o mais articulado</b>.",
-    "<b>NEM TUDO QUE BRILHA É RELÍQUIA OU JÓIA</b>\\nÀs vezes sou só eu passando para a próxima casa.\\n<b>Você avança 1 casa, jóia rara</b>.",
-    "<b>CADA MACACO NO SEU GALHO</b>\\nNessa rodada, nenhum animal duela.\\n#PAZNATERRA\\n#PELAPAZMUNDIAL",
-    "<b>UM DIA É DA CAÇA E OUTRO É DO CAÇADOR</b>\\nGuarde esta carta e use quando quiser reverter uma decisão a seu favor.\\n<b>Esta carta só pode ser usada uma vez e é intransferível</b>.",
-    "<b>QUEM COM FERRO FERE, COM FERRO SERÁ FERIDO...</b>\\nMas hoje não! Todos os jogadores duelam entre si com armas que não possuam metal em sua composição.\\n<b>Quem não tem, fica fora desta rodada</b>.",
-    "<b>PUXANDO O TAPETE</b>\\nVocê acaba de receber uma licença para ser sacana.\\n<b>Escolha um oponente para voltar 1 casa</b>.",
-    "<b>ATENÇÃO! ESTE É O CARRO DE TELE-MENSAGEM!</b>\\n~Música Romântica~\\nQuero pedir licença para chegar até você e dizer algo que demorei muito para ter coragem de falar...\\n<b>Escolha o animal mais deslumbrante para avançar 1 casa</b>.",
-    "<b>CAVALO DADO NÃO SE OLHA OS DENTES</b>\\nTroque uma de suas armas com um oponente deveras sortudo.\\nVocê que escolhe quem será o grande sortudo, sabichão!\\nO seu oponente deve abrir um leque com as cartas viradas para ele, então você selecionará uma delas.\\n<b>Mas sem espiar, hein!</b>",
-    "<b>BOLA DE CRISTAL</b>\\nVocê escolhe um adversário para revelar todas as suas armas para todos os guerreiros.",
-    "<b>PENSA RÁPIDO!</b>\\nConte até 3 em voz alta.\\nEste é o tempo para que todos os jogadores escolham uma carta e duelam entre si.\\n<b>1... 2... 3... JÁ!</b>",
-    "<b>SANTO DE CASA NÃO FAZ MILAGRE</b>\\nAtenção, animais!\\n<b>Todos duelam apenas com itens domésticos</b>.",
-    "<b>O BEIJINHO É DOCE...</b>\\nMas você não.\\nDuele com qualquer animal à sua escolha, somando <b>+2 pontos à sua arma</b>.",
-    "<b>É DANDO QUE SE RECEBE</b>\\n<b>Troque sua menor carta pela maior de outro jogador à sua escolha</b>.",
-    "<b>O BARATO SAI CARO</b>\\nAtenção, jogadores!\\n<b>Todos duelam usando apenas as cartas de menor valor</b>.",
-    "<b>OS HUMILHADOS SERÃO EXALTADOS</b>\\nDuele com o animal que estiver mais perto do início.\\n<b>Se dois ou mais personagens estiverem nesta posição, duele com todos</b>.",
-    "<b>VACA AMARELA...</b>\\nVocê já sabe o resto.\\n<b>Duele com um animal à sua escolha usando apenas cartas amarelas</b>.",
-    "<b>NÃO REPARA NA BAGUNÇA...</b>\\nAtenção, animais!\\nTodos duelam.\\nMas antes, <b>embaralhe suas cartas e peça para o animal à sua esquerda escolher a sua arma</b>.",
-    "<b>NÃO SABE BRINCAR, NÃO DESCE PRO PLAY...</b>\\n<b>Você perdeu a sua vez</b>.",
-    "<b>DEUS AJUDA QUEM CEDO MADRUGA...</b>\\nVocê, abençoado, <b>avance 2 casas sem duelar</b>.",
-    "<b>FUSCA AZUL!</b>\\nJá viu? Atenção, animais:\\n<b>Todos duelam usando somente cartas da cor azul</b>.",
-    "<b>LARANJA MADURA NA BEIRA DA ESTRADA...</b>\\nOu está podre ou está bichada!\\n<b>Todos duelam usando somente cartas da cor laranja</b>.",
-    "<b>PRIVILEGIADO, SIM!</b>\\nTodos os outros animais duelam usando as armas de menor valor.\\n<b>Menos você, chuchu, que pode usar a de maior valor</b>.",
-    "<b>O AMOR É UMA FLOR ROXA...</b>\\ne sua arma também será.\\n<b>Todos duelam usando apenas cartas roxas</b>.",
-    "<b>NÃO EXISTE ROSA SEM ESPINHO</b>\\nAtenção, animais!\\n<b>Todos duelam apenas com rosas... digo, com cartas vermelhas</b>.",
-    "<b>A VIDA TEM A COR QUE VOCÊ PINTA!</b>\\nAtenção, animais!\\n<b>Todos duelam usando apenas cartas verdes</b>.",
-    "<b>A UNIÃO FAZ A FORÇA...</b>\\nE às vezes um docinho também.\\nJunte os pontos de 2 cartas de menor valor e chame 2 outros animais para somarem suas respectivas cartas de menor valor e entrarem neste duelo contra você.\\n<b>Se vencer, avance 2 casas; caso contrário, volte 2 casas</b>.",
-    "<b>ANTES SÓ DO QUE MAL ACOMPANHADO</b>\\nTodos os animais, exceto você, alecrim-dourado, <b>devem voltar 1 casa</b>.",
-    "<b>CHEGA PRO LADO, ROSE... NESTA PORTA CABEM DOIS</b>\\nVocê e o animal à sua direita <b>avançam 1 casa</b>.",
-    "<b>VOU TE MOSTRAR COM QUANTOS PAUS SE FAZ UMA CANOA!</b>\\nDuele ao mesmo tempo com o animal à sua direita e com o animal à sua esquerda, usando apenas armas de madeira.",
-    "<b>QUEM NÃO É VISTO, NÃO É LEMBRADO</b>\\nOs três últimos animais deixados para trás duelam entre si, usando apenas itens de lazer.",
-    "<b>AONDE A VACA VAI, O BOI VAI ATRÁS</b>\\nVocê e o animal que perdeu o último duelo <b>avançam 1 casa</b>.",
-    "<b>É MUITA AREIA PRO SEU CAMINHÃO!</b>\\nO animal à sua direita escolhe, sem espiar, uma de suas cartas para <b>devolver ao monte de armas</b>.",
-    "<b>EM TIME QUE ESTÁ GANHANDO NÃO SE MEXE</b>\\n...e você também não!\\n<b>Fique exatamente onde está</b>.",
-    "<b>PRA CAVALO VELHO, O REMÉDIO É CAPIM NOVO</b>\\nO animal mais distante do Panteão dos Magos do Tempo <b>adiciona duas novas cartas de armas</b>.",
-    "<b>QUANTO MAIS ALTO, MAIOR O TOMBO</b>\\nO animal mais próximo do Panteão dos Magos do Tempo <b>troca de lugar com o mais distante</b>.",
-    "<b>AQUI SE FAZ, AQUI SE PAGA!</b>\\nAqui está a licença que buscavam para fazer justiça com as próprias mãos.\\n<b>Os dois últimos animais que venceram nas duas últimas rodadas duelam entre si</b>.",
-    "<b>AS APARÊNCIAS ENGANAM...</b>\\nAtenção, animal!\\nSe você estiver em uma casa de número par, <b>volte 1 casa</b>; se estiver em uma casa de número ímpar, <b>avance 1 casa</b>.",
-    "<b>O QUE NÃO TE MATA, TE FAZ MAIS FORTE</b>\\nGuarde esta carta e use quando quiser vencer um duelo que perderia, se não tivesse esta carta.\\n<b>Esta carta só pode ser usada uma única vez e é intransferível</b>.",
-    "<b>ELA TÁ TÃO NA SUUUUUUAA!!</b>\\nEscolha um jogador para receber o presente de <b>avançar 1 casa</b>... mas sem segundas intenções, ok?\\n*piscadinha*"
-  ]
-},
+        "<b>O PAU COMEU E VOCÊ CORREU!</b> \nEnquanto os outros jogadores duelavam, você, O ESPERTINHO, <b>avançou 1 casa</b>.",
+        "<b>VAI PENSANDO QUE O JOGO TÁ GANHO...</b> \nDuele com o animal que estiver mais próximo ao Panteão dos Magos do Tempo.\nSe dois ou mais jogadores estiverem nesta posição, duele com o mais iludido.",
+        "<b>VAI TÊ QUE DUELÁ #DIY (faça você mesmo)</b>\nVocê e mais 2 jogadores à sua escolha duelam simultaneamente, usando apenas armas caseiras. O vencedor avança 2 casas, o segundo avança 1, já o terceiro… melhore para a próxima rodada.",
+        "<b>E O VENTO LEVOU…</b>\na sua chance de jogar.\nRespire e não pire.\n<b>Passe a vez para um animal à sua escolha.</b>",
+        "<b>HÁ MALES QUE VÊM PARA O BEM</b>\nVocê e todos os demais jogadores passam suas armas para o jogador à sua direita.",
+        "<b>O LIXO DE UM É O OURO DOS OUTROS</b>\nDuele com o animal que estiver mais distante do Panteão dos Magos do Tempo utilizando a sua arma de menor valor.\nSe dois ou mais jogadores estiverem nesta posição, duele com o mais brilhante.",
+        "<b>DÉJÀ VU!</b>\nAcho que já estive aqui…\nE esteve mesmo, azarado!\n<b>Volte 2 casas!</b>",
+        "<b>ÁGUAS PASSADAS NÃO MOVEM MOINHOS…</b>\ne nem você.\nFique exatamente como está e deixe o próximo animal jogar.",
+        "<b>A CORDA SEMPRE ARREBENTA DO LADO MAIS FRACO</b>\nTodos os jogadores, exceto você, O SORTUDÃO, voltam 1 casa.",
+        "<b>ÁGUA MOLE EM PEDRA DURA TANTO BATE ATÉ QUE FURA</b>\nOs dois animais mais próximos do Panteão dos Magos do Tempo duelam.\nMas atenção! O perdedor volta 1 casa e o vencedor avança 1 casa.",
+        "<b>AMIGOS, AMIGOS; NEGÓCIOS À PARTE</b>\nDuele com o animal que estiver mais próximo ou na mesma casa que você.\nSe houver, além de você, dois ou mais jogadores nesta posição, escolha o mais articulado.",
+        "<b>NEM TUDO QUE BRILHA É RELÍQUIA OU JÓIA</b>\nÀs vezes sou só eu passando pra próxima casa.\nVocê avança 1 casa, jóia rara.",
+        "<b>CADA MACACO NO SEU GALHO</b>\nNessa rodada nenhum animal duela!\n#PAZNATERRA\n#PELAPAZMUNDIAL",
+        "<b>UM DIA É DA CAÇA E OUTRO É DO CAÇADOR</b>\nGuarde esta carta e use quando quiser reverter uma decisão a seu favor.\nEsta carta só pode ser usada uma vez e é intransferível.\nUSO ÚNICO",
+        "<b>QUEM COM FERRO FERE, COM FERRO SERÁ FERIDO…</b>\nMas hoje não!\nTodos os jogadores duelam entre si com armas que não possuam metal em sua composição.\nQuem não tem, fica fora desta rodada.",
+        "<b>PUXANDO O TAPETE</b>\nVocê acaba de receber uma licença para ser sacana.\nEscolha um oponente para <b>voltar 1 casa</b>.",
+        "<b>ATENÇÃO!</b>\nEste é o carro de telemensagem!\n~Música Romântica~\nQuero pedir licença para chegar até você e dizer algo que demorei muito para ter coragem de falar:\n...\nEscolha o animal mais deslumbrante para avançar uma casa.",
+        "<b>CAVALO DADO NÃO SE OLHA OS DENTES</b>\nTroque uma de suas armas com um oponente deveras sortudo.\nVocê que escolhe quem será o grande sortudo, sabichão!\nO seu oponente deve abrir um leque com as cartas viradas para ele, então você selecionará uma delas — mas sem espiar hein!",
+        "<b>BOLA DE CRISTAL</b>\nVocê escolhe um adversário para revelar todas as suas armas para todos os guerreiros.",
+        "<b>PENSA RÁPIDO!</b>\nConte até 3 em voz alta.\nEste é o tempo para que todos os jogadores escolham uma carta e duelem entre si.\n1... 2... 3... JÁ!",
+        "<b>SANTO DE CASA NÃO FAZ MILAGRE</b>\nATENÇÃO, ANIMAIS!\nTodos duelam apenas com itens domésticos.",
+        "<b>O BEIJINHO É DOCE…</b>\nMas você não.\nDuele com qualquer animal à sua escolha, somando +2 pontos à sua arma.",
+        "<b>É DANDO QUE SE RECEBE</b>\nTroque sua menor carta pela maior de um outro jogador à sua escolha.",
+        "<b>O BARATO SAI CARO</b>\nAtenção, jogadores!\nTodos duelam usando apenas as cartas de menor valor.",
+        "<b>OS HUMILHADOS SERÃO EXALTADOS</b>\nDuele com o animal que estiver mais perto do início.\nSe 2 ou mais personagens estiverem nesta posição, duele com todos.",
+        "<b>VACA AMARELA…</b>\nVocê já sabe o resto.\nDuele com um animal à sua escolha usando apenas cartas amarelas.",
+        "<b>NÃO REPARA NA BAGUNÇA…</b>\nAtenção, animais:\nTodos duelam.\nMas antes, você deve embaralhar suas cartas e pedir para o animal à sua esquerda escolher a sua arma.",
+        "<b>NÃO SABE BRINCAR, NÃO DESCE PRO PLAY…</b>\nVocê perdeu a sua vez.",
+        "<b>DEUS AJUDA QUEM CEDO MADRUGA…</b>\nVocê, abençoado, avance 2 casas sem duelar.",
+        "<b>FUSCA AZUL!</b>\nJá viu? Atenção, animais: \nTodos duelam usando somente cartas da cor azul.",
+        "<b>LARANJA MADURA NA BEIRA DA ESTRADA OU ESTÁ PODRE OU ESTÁ BICHADA</b>\nAtenção, animais: \nTodos duelam usando somente cartas da cor laranja.",
+        "<b>PRIVILEGIADO, SIM!</b>\nTodos os outros animais duelam usando as armas de menor valor, menos você, chuchu, que pode usar a de maior valor.",
+        "<b>O AMOR É UMA FLOR ROXA…</b>\ne sua arma também será.\nAtenção, animais: \nTodos duelam usando apenas cartas roxas.",
+        "<b>NÃO EXISTE ROSA SEM ESPINHO</b>\nAtenção, animais:\nTodos duelam apenas com rosas… digo, com cartas vermelhas.",
+        "<b>A VIDA TEM A COR QUE VOCÊ PINTA!</b>\nAtenção, animais: \nTodos duelam usando apenas cartas verdes.",
+        "<b>A UNIÃO FAZ A FORÇA…</b>\nE às vezes um docinho também.\nJunte os pontos de 2 cartas de menor valor e chame 2 outros animais para somarem suas respectivas cartas de menor valor e entrarem neste duelo contra você.\nSe você vencer, avance 2 casas, caso contrário, volte 2 casas.",
+        "<b>ANTES SÓ DO QUE MAL ACOMPANHADO</b>\nTodos os animais, exceto você, alecrim-dourado, devem voltar 1 casa.",
+        "<b>CHEGA PRO LADO, ROSE... NESTA PORTA CABEM DOIS</b>\nVocê e o animal à sua direita avançam 1 casa.",
+        "<b>VOU TE MOSTRAR COM QUANTOS PAUS SE FAZ UMA CANOA!</b>\nDuele ao mesmo tempo com o animal à sua direita e com o animal à sua esquerda, usando apenas armas de madeira.",
+        "<b>QUEM NÃO É VISTO, NÃO É LEMBRADO</b>\nOs 3 últimos animais deixados para trás duelam entre si usando apenas itens de lazer.",
+        "<b>AONDE A VACA VAI, O BOI VAI ATRÁS</b>\nVocê e o animal que perdeu o último duelo avançam 1 casa.",
+        "<b>É MUITA AREIA PRO SEU CAMINHÃO</b>\nO animal à sua direita escolhe, sem espiar, uma de suas cartas para devolver ao monte de armas.",
+        "<b>EM TIME QUE ESTÁ GANHANDO NÃO SE MEXE</b>\n...e você também não! Fique exatamente onde está.",
+        "<b>PRA CAVALO VELHO O REMÉDIO É CAPIM NOVO</b>\nO animal mais distante do Panteão dos Magos do Tempo adiciona a si duas novas cartas de armas.",
+        "<b>QUANTO MAIS ALTO, MAIOR O TOMBO</b>\nO animal mais próximo do Panteão dos Magos do Tempo troca de lugar com o mais distante.",
+        "<b>AQUI SE FAZ, AQUI SE PAGA!</b>\nAqui está a licença que buscavam para fazer justiça com as próprias mãos:\nOs 2 últimos animais que venceram nas 2 últimas rodadas duelam entre si.",
+        "<b>AS APARÊNCIAS ENGANAM…</b>\nAtenção, animal: \nSe você estiver em uma casa de número par, volte 1 casa; se estiver em uma casa de número ímpar, avance 1 casa.",
+        "<b>O QUE NÃO TE MATA, TE FAZ MAIS FORTE</b>\nGuarde esta carta e use quando quiser vencer um duelo que você perderia, se não tivesse essa carta, claramente.\nEsta carta só pode ser usada uma única vez e é intransferível.\nUSO ÚNICO",
+        "<b>ELA TÁ TÃO NA SUUUUUUAA!!</b>\nEscolha um jogador para receber o presente de avançar uma casa — mas sem segundas intenções, ok?\n*piscadinha*"
+      ]
+    },
 
     "animacoes": {
       "ativo": false,
-      "nome": "🎬 Baralho Animações",
-      "descricao": "Frases e referências do cinema animado.",
+      "descricao": "Cartas inspiradas em filmes e animações clássicas.",
       "frases": [
-        "<b>HAKUNA MATATA!</b>\nVocê avança 1 casa sem se preocupar com nada.",
-        "<b>INFINITO E ALÉM!</b>\nVocê viajou longe demais — avance 2 casas.",
-        "<b>O REI LEÃO</b>\nLembre-se de quem você é... volte 1 casa e reflita sobre suas escolhas.",
-        "<b>VIVA! A VIDA É UMA FESTA!</b>\nToque sua música favorita e avance 1 casa cantando.",
-        "<b>PROCURANDO NEMO</b>\nContinue a nadar... e avance 1 casa."
+        "<b>AO INFINITO E ALÉM!</b>\nVocê e outro jogador escolhido por você avançam juntos 1 casa.",
+        "<b>HAKUNA MATATA!</b>\nRelaxe. Ninguém duela nesta rodada.",
+        "<b>QUE A FORÇA ESTEJA COM VOCÊ!</b>\nVocê pode escolher duelar com qualquer jogador, independente da distância."
       ]
     },
 
     "geek": {
       "ativo": false,
-      "nome": "🧙‍♂️ Baralho Geek",
-      "descricao": "Poder, magia e cultura nerd misturados.",
+      "descricao": "Cartas com referências ao universo geek e nerd.",
       "frases": [
-        "<b>QUE A FORÇA ESTEJA COM VOCÊ!</b>\nRefaça o duelo anterior e tente um novo destino.",
-        "<b>EU SOU O HOMEM DE FERRO.</b>\nEscolha qualquer oponente e derrote-o sacrificando qualquer carta em que o objeto contenha metal.",
-        "<b>VOCÊ NÃO PASSARÁ!</b>\nImpeça o jogador à sua frente de avançar nesta rodada.",
-        "<b>PORQUE EU SOU O BATMAN.</b>\nJogue novamente, com confiança e um olhar dramático.",
-        "<b>UM ANEL PARA TODOS GOVERNAR.</b>\nRoube uma arma de cada oponente e ria como um vilão."
+        "<b>EU SOU O HOMEM DE FERRO!</b>\nUse esta carta para vencer qualquer duelo, mas ela será destruída após o uso.",
+        "<b>VOCÊ NÃO PASSARÁ!</b>\nBloqueie o ataque de um oponente. Nenhum dos dois avança.",
+        "<b>UM ANEL PARA TODOS GOVERNAR...</b>\nEscolha um jogador para trocar todas as suas armas com você."
       ]
     },
 
     "natal": {
       "ativo": false,
-      "nome": "🎄 Baralho Natalino",
-      "descricao": "O espírito natalino chegou ao campo de batalha.",
+      "descricao": "Cartas com temas natalinos e festivos.",
       "frases": [
-        "<b>HO HO HO!</b>\nVocê ganhou um presente: avance 2 casas.",
-        "<b>O GRINCH APARECEU!</b>\nRoube uma carta de outro jogador.",
-        "<b>ENTÃO É NATAL...</b>\nMas o que você fez? Volte 1 casa pra refletir.",
-        "<b>PAPAI NOEL TE VIU!</b>\nSe você mentiu em algum duelo, perca um turno.",
-        "<b>CEIA DE NATAL</b>\nTodos os jogadores brindam e avançam 1 casa juntos."
+        "<b>HO HO HO!</b>\nTodos os jogadores trocam de posição no tabuleiro em sentido horário.",
+        "<b>ESPERA, ESSE PRESENTE É MEU!</b>\nRoube uma arma de qualquer jogador.",
+        "<b>CEIA DE NATAL</b>\nTodos os jogadores se unem em um duelo coletivo. Quem tiver a maior arma ganha 2 casas."
       ]
     }
   }
 }
-
-
