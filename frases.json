@@ -1,8 +1,8 @@
 {
   "info": {
-    "versao": "1.5",
-    "ultima_atualizacao": "2025-10-07",
-    "observacao": "Este arquivo contém as frases sorteadas pelo app. As entradas dentro de 'exemplos' servem como referência de formatação e não são usadas no jogo."
+    "versao": "2.0",
+    "ultima_atualizacao": "2025-10-31",
+    "observacao": "Agora com suporte a múltiplos baralhos temáticos! O baralho 'base' contém todas as cartas originais. Os demais (animações, geek, natal) são expansões opcionais."
   },
 
   "exemplos": {
@@ -10,11 +10,16 @@
     "italico": "Avance até o <i>castelo dourado</i>.",
     "cor": "Oh não! <color=red>Perde uma rodada!</color>",
     "tamanho": "<size=120>Parabéns!</size> Você ganhou o prêmio.",
-    "multilinha": "Você ganhou um turno extra!\\nJogue novamente.",
-    "misto": "<b><color=#FFD700>Você brilhou!</color></b>\\nAvance três casas."
+    "multilinha": "Você ganhou um turno extra!\nJogue novamente.",
+    "misto": "<b><color=#FFD700>Você brilhou!</color></b>\nAvance três casas."
   },
 
-  "frases": [
+  "baralhos": {
+    "base": {
+      "ativo": true,
+      "nome": "🐾 Baralho Base",
+      "descricao": "O clássico Vaitêquiduelá. Ditados populares e caos garantido.",
+      "frases": [
     "<b>O PAU COMEU E VOCÊ CORREU</b>\\nEnquanto os outros duelavam, você, o espertinho, <b>avançou 1 casa</b>.",
     "<b>VAI PENSANDO QUE O JOGO TÁ GANHO...</b>\\nDuele com o animal que estiver mais próximo ao Panteão dos Magos do Tempo.\\n<b>Se dois ou mais jogadores estiverem nesta posição, duele com o mais iludido</b>.",
     "<b>VAI TÊ QUE DUELÁ #DIY (FAÇA VOCÊ MESMO)</b>\\nVocê e mais 2 jogadores à sua escolha duelam simultaneamente, usando apenas armas caseiras.\\nO vencedor <b>avança 2 casas</b>, o segundo <b>avança 1</b>, já o terceiro… melhore para a próxima rodada.",
@@ -65,5 +70,47 @@
     "<b>O QUE NÃO TE MATA, TE FAZ MAIS FORTE</b>\\nGuarde esta carta e use quando quiser vencer um duelo que perderia, se não tivesse esta carta.\\n<b>Esta carta só pode ser usada uma única vez e é intransferível</b>.",
     "<b>ELA TÁ TÃO NA SUUUUUUAA!!</b>\\nEscolha um jogador para receber o presente de <b>avançar 1 casa</b>... mas sem segundas intenções, ok?\\n*piscadinha*"
   ]
+},
+
+    "animacoes": {
+      "ativo": false,
+      "nome": "🎬 Baralho Animações",
+      "descricao": "Frases e referências do cinema animado.",
+      "frases": [
+        "<b>HAKUNA MATATA!</b>\nVocê avança 1 casa sem se preocupar com nada.",
+        "<b>INFINITO E ALÉM!</b>\nVocê viajou longe demais — avance 2 casas.",
+        "<b>O REI LEÃO</b>\nLembre-se de quem você é... volte 1 casa e reflita sobre suas escolhas.",
+        "<b>VIVA! A VIDA É UMA FESTA!</b>\nToque sua música favorita e avance 1 casa cantando.",
+        "<b>PROCURANDO NEMO</b>\nContinue a nadar... e avance 1 casa."
+      ]
+    },
+
+    "geek": {
+      "ativo": false,
+      "nome": "🧙‍♂️ Baralho Geek",
+      "descricao": "Poder, magia e cultura nerd misturados.",
+      "frases": [
+        "<b>QUE A FORÇA ESTEJA COM VOCÊ!</b>\nRefaça o duelo anterior e tente um novo destino.",
+        "<b>EU SOU O HOMEM DE FERRO.</b>\nEscolha qualquer oponente e derrote-o sacrificando qualquer carta em que o objeto contenha metal.",
+        "<b>VOCÊ NÃO PASSARÁ!</b>\nImpeça o jogador à sua frente de avançar nesta rodada.",
+        "<b>PORQUE EU SOU O BATMAN.</b>\nJogue novamente, com confiança e um olhar dramático.",
+        "<b>UM ANEL PARA TODOS GOVERNAR.</b>\nRoube uma arma de cada oponente e ria como um vilão."
+      ]
+    },
+
+    "natal": {
+      "ativo": false,
+      "nome": "🎄 Baralho Natalino",
+      "descricao": "O espírito natalino chegou ao campo de batalha.",
+      "frases": [
+        "<b>HO HO HO!</b>\nVocê ganhou um presente: avance 2 casas.",
+        "<b>O GRINCH APARECEU!</b>\nRoube uma carta de outro jogador.",
+        "<b>ENTÃO É NATAL...</b>\nMas o que você fez? Volte 1 casa pra refletir.",
+        "<b>PAPAI NOEL TE VIU!</b>\nSe você mentiu em algum duelo, perca um turno.",
+        "<b>CEIA DE NATAL</b>\nTodos os jogadores brindam e avançam 1 casa juntos."
+      ]
+    }
+  }
 }
+
 
