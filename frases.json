@@ -75,9 +75,12 @@
       "ativo": false,
       "descricao": "Cartas inspiradas em filmes e animações clássicas.",
       "frases": [
-        "<b>AO INFINITO E ALÉM!</b>\nVocê e outro jogador escolhido por você avançam juntos 1 casa.",
-        "<b>HAKUNA MATATA!</b>\nRelaxe. Ninguém duela nesta rodada.",
-        "<b>QUE A FORÇA ESTEJA COM VOCÊ!</b>\nVocê pode escolher duelar com qualquer jogador, independente da distância."
+        "<b>AO INFINITO E ALÉM!</b>\nVocê avança 1 casa.",
+        "<b>AMIGO ESTOU AQUI</b>\nVocê e outro jogador escolhido por você avançam juntos 1 casa.",
+        "<b>HAKUNA MATATA!</b>\nSeus probleeemas, você deve esqueceeeer...\nEntão relaxe.\nNinguém duela nesta rodada.",
+        "<b>LIVRE ESTOOOU!</b>\nE está mesmo...\n...da sua vez de jogar.\nFique onde está",
+        "<b>MIRABEL SEMPRE ESTEVE CERTA!</b>\nTodos duelam apenas com coisas da 'casita', ou seja, itens domésticos.",
+        "<b>EU GOSTO DE ABRAÇOS QUENTINHOS!</b>\nTodos os animais duelam apenas com <b>itens inflamáveis</b>."
       ]
     },
 
@@ -86,8 +89,9 @@
       "descricao": "Cartas com referências ao universo geek e nerd.",
       "frases": [
         "<b>EU SOU O HOMEM DE FERRO!</b>\nUse esta carta para vencer qualquer duelo, mas ela será destruída após o uso.",
-        "<b>VOCÊ NÃO PASSARÁ!</b>\nBloqueie o ataque de um oponente. Nenhum dos dois avança.",
-        "<b>UM ANEL PARA TODOS GOVERNAR...</b>\nEscolha um jogador para trocar todas as suas armas com você."
+        "<b>VOCÊ NÃO PASSARÁ!</b>\nBloqueie o avanço de um oponente, mas...\n como toda magia tem um preço...\n<b>nenhum de vocês dos dois avança.</b>",
+        "<b>ATENÇÃO! TORNADO PARA OZ PASSANDO...</b>\nEscolha um jogador para trocar todas as suas armas com você.",
+        "<b>QUE A FORÇA ESTEJA COM VOCÊ!</b>\nVocê duelará com o lado oposto da força, ou seja, o jogador que estiver mais distante da sua posição no tabuleiro."
       ]
     },
 
@@ -97,8 +101,10 @@
       "frases": [
         "<b>HO HO HO!</b>\nTodos os jogadores trocam de posição no tabuleiro em sentido horário.",
         "<b>ESPERA, ESSE PRESENTE É MEU!</b>\nRoube uma arma de qualquer jogador.",
-        "<b>CEIA DE NATAL</b>\nTodos os jogadores se unem em um duelo coletivo. Quem tiver a maior arma ganha 2 casas."
+        "<b>CEIA DE NATAL</b>\nTodos os jogadores se unem em um duelo coletivo. Quem tiver a maior arma ganha 2 casas.",
+        "<b>VOCÊ FOI UM MAU MENINO/A!</b>\n<b>Volte duas casas</b> e seja melhor daqui para frente!"
       ]
     }
   }
 }
+
