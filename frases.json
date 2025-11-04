@@ -1,23 +1,15 @@
 {
   "info": {
     "versao": "2.0",
-    "ultima_atualizacao": "2025-10-31",
-    "observacao": "Este arquivo contém frases sorteadas pelo app. As entradas dentro de 'exemplos' servem apenas como referência de formatação e não são usadas no jogo."
+    "ultima_atualizacao": "2025-11-03",
+    "observacao": "Modelo definitivo com suporte a múltiplas categorias e expansões."
   },
 
-  "exemplos": {
-    "negrito": "Você encontrou <b>um tesouro</b> escondido!",
-    "italico": "Avance até o <i>castelo dourado</i>.",
-    "cor": "Oh não! <color=red>Perde uma rodada!</color>",
-    "tamanho": "<size=120>Parabéns!</size> Você ganhou o prêmio.",
-    "multilinha": "Você ganhou um turno extra!\nJogue novamente.",
-    "misto": "<b><color=#FFD700>Você brilhou!</color></b>\nAvance três casas."
-  },
-
-  "baralhos": {
-    "base": {
+  "categorias": [
+    {
+      "nome": "Base",
       "ativo": true,
-      "descricao": "Conjunto original de cartas com ditados e expressões brasileiras.",
+      "descricao": "O baralho principal do jogo, com os ditados e frases originais.",
       "frases": [
         "<b>O PAU COMEU E VOCÊ CORREU!</b> \nEnquanto os outros jogadores duelavam, você, O ESPERTINHO, <b>avançou 1 casa</b>.",
         "<b>VAI PENSANDO QUE O JOGO TÁ GANHO...</b> \nDuele com o animal que estiver mais próximo ao Panteão dos Magos do Tempo.\nSe dois ou mais jogadores estiverem nesta posição, duele com o mais iludido.",
@@ -70,10 +62,10 @@
         "<b>ELA TÁ TÃO NA SUUUUUUAA!!</b>\nEscolha um jogador para receber o presente de avançar uma casa — mas sem segundas intenções, ok?\n*piscadinha*"
       ]
     },
-
-    "animacoes": {
+    {
+      "nome": "Animações",
       "ativo": false,
-      "descricao": "Cartas inspiradas em filmes e animações clássicas.",
+      "descricao": "Expansão com frases baseadas no mundo animado.",
       "frases": [
         "<b>AO INFINITO E ALÉM!</b>\nVocê avança 1 casa.",
         "<b>AMIGO ESTOU AQUI</b>\nVocê e outro jogador escolhido por você avançam juntos 1 casa.",
@@ -81,12 +73,12 @@
         "<b>LIVRE ESTOOOU!</b>\nE está mesmo...\n...da sua vez de jogar.\nFique onde está",
         "<b>MIRABEL SEMPRE ESTEVE CERTA!</b>\nTodos duelam apenas com coisas da 'casita', ou seja, itens domésticos.",
         "<b>EU GOSTO DE ABRAÇOS QUENTINHOS!</b>\nTodos os animais duelam apenas com <b>itens inflamáveis</b>."
-      ]
+]
     },
-
-    "geek": {
+    {
+      "nome": "Geek",
       "ativo": false,
-      "descricao": "Cartas com referências ao universo geek e nerd.",
+      "descricao": "Cartas inspiradas em filmes, séries e cultura nerd.",
       "frases": [
         "<b>EU SOU O HOMEM DE FERRO!</b>\nUse esta carta para vencer qualquer duelo, mas ela será destruída após o uso.",
         "<b>VOCÊ NÃO PASSARÁ!</b>\nBloqueie o avanço de um oponente, mas...\n como toda magia tem um preço...\n<b>nenhum de vocês dos dois avança.</b>",
@@ -94,10 +86,10 @@
         "<b>QUE A FORÇA ESTEJA COM VOCÊ!</b>\nVocê duelará com o lado oposto da força, ou seja, o jogador que estiver mais distante da sua posição no tabuleiro."
       ]
     },
-
-    "natal": {
+    {
+      "nome": "Natal",
       "ativo": false,
-      "descricao": "Cartas com temas natalinos e festivos.",
+      "descricao": "Expansão com frases natalinas e temas festivos.",
       "frases": [
         "<b>HO HO HO!</b>\nTodos os jogadores trocam de posição no tabuleiro em sentido horário.",
         "<b>ESPERA, ESSE PRESENTE É MEU!</b>\nRoube uma arma de qualquer jogador.",
@@ -105,6 +97,7 @@
         "<b>VOCÊ FOI UM MAU MENINO/A!</b>\n<b>Volte duas casas</b> e seja melhor daqui para frente!"
       ]
     }
-  }
+  ]
 }
+
 
