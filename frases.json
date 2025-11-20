@@ -94,7 +94,7 @@
       "ativo": false,
       "descricao": "Cartas inspiradas em filmes, séries e cultura nerd.",
       "frases": [
-        "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>EU SOU INEVITAVEL!</b>\nO animal que jogou antes de você selecionará metade das armas da sua mão, mas sem espiar, para serem descartadas em um esralar de dedos.\nPerfeitamente balanceado!.",
+        "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>EU SOU INEVITAVEL!</b>\nO animal que jogou antes de você selecionará metade das armas da sua mão, mas sem espiar, para serem descartadas em um esralar de dedos.\nPerfeitamente balanceado!",
         "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>VOCÊ NÃO PASSARÁ!</b>\nBloqueie o avanço de um oponente, mas...\n como toda magia tem um preço...\n<b>nenhum de vocês dos jogará na próxima rodada.</b>",
         "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>ATENÇÃO! TORNADO PARA OZ PASSANDO...</b>\nEscolha um jogador para embaralhar todas as cartas da sua mão com as que ainda não foram retiradas do deck de armas e refazer a sua mão com um novo sorteio.",
         "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>QUE A FORÇA ESTEJA COM VOCÊ!</b>\nVocê duelará com o lado oposto da força, ou seja, o jogador que estiver mais distante da sua posição no tabuleiro.",
@@ -104,7 +104,7 @@
         "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>UM ANEL PARA TODOS ZUAR...</b>\nMostre uma arma da sua mão.\nTodos os jogadores devem mostrar uma carta também à sua escolha.\n<b>Quem tiver o menor valor volta 1 casa.</b>",
         "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>FUS RO DAH!</b>\nSeu grito é tão poderoso que…\n<b>Todos os jogadores ao seu lado no tabuleiro voltam 1 casa.</b>",
         "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>DIGIEVOLUÇÃO!</b>\nVocê evoluiu.\n<b>Troque qualquer arma da mão por uma nova do topo do deck.</b>",
-        "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>EU ESCOLHO VOCÊ!</b>\nSelecione um jogador para duelar.\nO tipo de arma será definido por você.\n<b>Em caso de empate, vence quem argumentar melhor.</b>",
+        "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>QUE OS JOGOS COMEÇEM!\nE QUE A SORTE ESTEJA AO SEU FAVOR, TRIBUTOS!</b>\nSelecione um jogador para duelar.\nO tipo de arma será definido por você.\n<b>Em caso de empate, vence quem argumentar melhor.</b>",
         "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>FATALITY!</b>\nVocê escolhe um oponente nesta rodada para duelar contra você.\n<b>Quem perder deverá descartar todas as suas cartas de armas e pegar novas no Deck de Armas.</b>",
         "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>RECARREGANDO…</b>\nSua munição acabou no pior momento.\n<b>Pule sua vez, mas na próxima rodada compre 1 arma extra.</b>",
         "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>BAMF!\nTeleportador mutante avistado!</b>\nO azulão passou por aqui e te deu uma mãozinha.\n<b>Troque de posição no tabuleiro com qualquer jogador.</b>",
@@ -177,6 +177,7 @@
     }
   ]
 }
+
 
 
 
