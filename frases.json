@@ -1,13 +1,13 @@
 {
   "info": {
-    "versao": "2.4",
+    "versao": "2.6",
     "ultima_atualizacao": "2025-11-20",
     "observacao": "Modelo definitivo com suporte a múltiplas categorias e expansões."
   },
 
   "categorias": [
     {
-      "nome": "Base",
+      "nome": "Base - Jogo Original",
       "ativo": true,
       "descricao": "O baralho principal do jogo, com os ditados e frases originais.",
       "frases": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "nome": "🎬Baralho de Animações",
+      "nome": "Baralho de Animações",
       "ativo": false,
       "descricao": "Expansão com frases baseadas no mundo animado.",
       "frases": [
@@ -90,7 +90,7 @@
 ]
     },
     {
-      "nome": "👾 Baralho Geek",
+      "nome": "Baralho Geek",
       "ativo": false,
       "descricao": "Cartas inspiradas em filmes, séries e cultura nerd.",
       "frases": [
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "nome": "🎄Baralho Natalino",
+      "nome": "Baralho Natalino",
       "ativo": false,
       "descricao": "Expansão com frases natalinas e temas festivos.",
       "frases": [
@@ -144,9 +144,40 @@
         "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>O PRIMO FITNESS CHEGOU</b>\nTodos os jogadores menos você descartam uma arma de 'calorias altas'.",
         "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>ÁRVORE TORTA DA AMERICANAS</b>\nSua decoração caiu e você perde 1 casa.\nTriste, mas real.\nQuem mandou economizar na decoração?"
       ]
+    },
+    {
+      "nome": "Baralho Gospel",
+      "ativo": false,
+      "descricao": "Expansão com frases natalinas e temas festivos.",
+      "frases": [
+        "<size=80%><b><color=#AA77FF>Baralho Gospel</color></b></size>\n<b>QUE MICO, IRMÃO!</b>\nO líder pediu pra você orar e deu branco na hora.\nVocê perde a vez… mas pelo menos Deus entendeu suas intenções.",
+        "<size=80%><b><color=#AA77FF>Baralho Gospel</color></b></size>\n<b>ESCALA DUPLA!</b>\nHoje você está na escala.\nChegue mais cedo e saia mais tarde.\nO jogador mais próximo do panteão volta uma casa.",
+        "<size=80%><b><color=#AA77FF>Baralho Gospel</color></b></size>\n<b>REFLEXÃO DE ÚLTIMA HORA</b>\nTe pediram para trazer a palavra sem aviso!\nCom tanta pressão, você troca todas as suas armas por novas.",
+        "<size=80%><b><color=#AA77FF>Baralho Gospel</color></b></size>\n<b>GLÓRIAS!!!</b>\nVocê recebeu uma bênção inesperada.\nAvance 1 casa.",
+        "<size=80%><b><color=#AA77FF>Baralho Gospel</color></b></size>\n<b>ORA QUE MELHORA</b>\nEscolha um jogador.\nAmbos fecham os olhos e escolhem a sua arma para o duelo de olhos fechados.\nQuem vencer avança 1 casa.",
+        "<size=80%><b><color=#AA77FF>Baralho Gospel</color></b></size>\n<b>IRMAZINHO DO PLAYBACK ERRADO</b>\nVocê colocou o playback errado no culto.\nQue vergonha.\nVolte 1 casa.",
+        "<size=80%><b><color=#AA77FF>Baralho Gospel</color></b></size>\n<b>OLHA LÁ O IRMÃO 13º!</b>\nO cara só aparece uma vez por ano e acha que não tá perdendo nada.\nVolte ao início do tabuleiro.",
+        "<size=80%><b><color=#AA77FF>Baralho Gospel</color></b></size>\n<b>MOISÉS ABRIU O MAR</b>\nE você que não é bobo, correu dos egípcios.\nAvance 1 casa.",
+        "<size=80%><b><color=#AA77FF>Baralho Gospel</color></b></size>\n<b>A PAZ DO SENHOR, JOVEM!</b>\nVocê foi cumprimentado 18 vezes antes de sentar.\nVocê perde a vez de tão cansado.",
+        "<size=80%><b><color=#AA77FF>Baralho Gospel</color></b></size>\n<b>DAVID E GOLIAS</b>\nEscolha o jogador mais alto; caso seja você, escolha o menor para duelar.\nAmbos duelam usando apenas a arma menor da mão.\nAfinal, às vezes é a pedrinha que faz a diferença.\nO vencedor avança 2 casas.",
+        "<size=80%><b><color=#AA77FF>Baralho Gospel</color></b></size>\n<b>TÁ REPREENDIDO!</b>\nEscolha um jogador para descartar sua arma mais forte.\nFora, seta do maligno!",
+        "<size=80%><b><color=#AA77FF>Baralho Gospel</color></b></size>\n<b>MISSIONÁRIO SEMPRE APARECE</b>\nUm missionário passou pedindo ajuda.\nDê 1 arma da sua mão para o jogador à sua direita.",
+        "<size=80%><b><color=#AA77FF>Baralho Gospel</color></b></size>\n<b>IRMÃ DO GLÓRIA!</b>\nA irmã deu aquele grito que te fez pular da cadeira.\nVocê avança 1 casa pela adrenalina.",
+        "<size=80%><b><color=#AA77FF>Baralho Gospel</color></b></size>\n<b>AUXILIAR DA PORTA</b>\nVocê foi ajudar na recepção sem querer.\nFique 1 rodada sem jogar.",
+        "<size=80%><b><color=#AA77FF>Baralho Gospel</color></b></size>\n<b>O HINO DA VITÓRIA</b>\nDiga um louvor que tenha a palavra vitória; mas não vale Cassiane.\nSe você não souber, volte 1 casa; se souber, avance 1.",
+        "<size=80%><b><color=#AA77FF>Baralho Gospel</color></b></size>\n<b>CULTO ESTILO MARATONA</b>\nO culto ultrapassou duas horas.\nA atenção já foi pras cucuias, mas sempre tem aquele hiper focado que está sendo abençoado.\nUtilize a roleta para descobrir quem avança 1 casa.",
+        "<size=80%><b><color=#AA77FF>Baralho Gospel</color></b></size>\n<b>BENÇÃO EM DOBRO</b>\nVocê sentiu a presença forte!\nCompre 2 armas novas.",
+        "<size=80%><b><color=#AA77FF>Baralho Gospel</color></b></size>\n<b>PEQUENO GRUPO HOJE!</b>\nVocê reencontra pessoas queridas.\nAvance 1 casa e escolha alguém para avançar com você.",
+        "<size=80%><b><color=#AA77FF>Baralho Gospel</color></b></size>\n<b>JONAS FUGIU DA MISSÃO</b>\nVocê tentou se esconder de uma responsabilidade.\nTroque todas as suas cartas por novas e volte 1 casa.",
+        "<size=80%><b><color=#AA77FF>Baralho Gospel</color></b></size>\n<b>CHAMARAM VOCÊ PARA DAR UM TESTEMUNHO</b>\nMas você não estava preparado.\nEmbaralhe completamente sua mão e compre 1 carta extra para compensar o nervosismo.",
+        "<size=80%><b><color=#AA77FF>Baralho Gospel</color></b></size>\n<b>ELIAS VS OS PROFETAS DE BAAL</b>\nDuele contra todos os jogadores.\nSe vencer, avance 2 casas.\nSe perder… talvez seja hora de fugir pra caverna e voltar 1.",
+        "<size=80%><b><color=#AA77FF>Baralho Gospel</color></b></size>\n<b>MURO DE JERICÓ</b>\nToque as trombetas!\nTodos os jogadores duelam simultaneamente.\nO menor valor volta 1 casa; o maior avança 1; o resto fica só de testemunha."
+        ]
+
     }
   ]
 }
+
 
 
 
