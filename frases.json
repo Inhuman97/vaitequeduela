@@ -67,12 +67,12 @@
       "ativo": false,
       "descricao": "Expansão com frases baseadas no mundo animado.",
       "frases": [
-        "🎬<b>AO INFINITO E ALÉM!</b>\nVocê avança 1 casa.",
-        "🎬<b>AMIGO ESTOU AQUI</b>\nVocê e outro jogador escolhido por você avançam juntos 1 casa.",
-        "🎬<b>HAKUNA MATATA!</b>\nSeus probleeemas, você deve esqueceeeer...\nEntão relaxe!\nNinguém duela nesta rodada.",
-        "🎬<b>LIVRE ESTOOOU!</b>\nE está mesmo...\n...da sua vez de jogar.\nFique onde está",
-        "🎬<b>MIRABEL SEMPRE ESTEVE CERTA!</b>\nTodos duelam apenas com coisas da 'casita', ou seja, itens domésticos.",
-        "🎬<b>EU GOSTO DE ABRAÇOS QUENTINHOS!</b>\nTodos os animais duelam apenas com <b>itens inflamáveis</b>."
+        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>AO INFINITO E ALÉM!</b>\nVocê avança 1 casa.",
+        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>AMIGO ESTOU AQUI</b>\nVocê e outro jogador escolhido por você avançam juntos 1 casa.",
+        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>HAKUNA MATATA!</b>\nSeus probleeemas, você deve esqueceeeer...\nEntão relaxe!\nNinguém duela nesta rodada.",
+        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>LIVRE ESTOOOU!</b>\nE está mesmo...\n...da sua vez de jogar.\nFique onde está",
+        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>MIRABEL SEMPRE ESTEVE CERTA!</b>\nTodos duelam apenas com coisas da 'casita', ou seja, itens domésticos.",
+        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>EU GOSTO DE ABRAÇOS QUENTINHOS!</b>\nTodos os animais duelam apenas com <b>itens inflamáveis</b>."
 ]
     },
     {
@@ -80,10 +80,10 @@
       "ativo": false,
       "descricao": "Cartas inspiradas em filmes, séries e cultura nerd.",
       "frases": [
-        "👾 Geek\n<b>EU SOU INEVITAVEL!</b>\nO animal que jogou antes de você selecionará metade das armas da sua mão, mas sem espiar, para serem descartadas em um esralar de dedos.\nPerfeitamente balanceado!.",
-        "👾 Geek\n<b>VOCÊ NÃO PASSARÁ!</b>\nBloqueie o avanço de um oponente, mas...\n como toda magia tem um preço...\n<b>nenhum de vocês dos jogará na próxima rodada.</b>",
-        "👾 Geek\n<b>ATENÇÃO! TORNADO PARA OZ PASSANDO...</b>\nEscolha um jogador para embaralhar todas as cartas da sua mão com as que ainda não foram retiradas do deck de armas e refazer a sua mão com um novo sorteio.",
-        "👾 Geek\n<b>QUE A FORÇA ESTEJA COM VOCÊ!</b>\nVocê duelará com o lado oposto da força, ou seja, o jogador que estiver mais distante da sua posição no tabuleiro."
+        "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>EU SOU INEVITAVEL!</b>\nO animal que jogou antes de você selecionará metade das armas da sua mão, mas sem espiar, para serem descartadas em um esralar de dedos.\nPerfeitamente balanceado!.",
+        "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>VOCÊ NÃO PASSARÁ!</b>\nBloqueie o avanço de um oponente, mas...\n como toda magia tem um preço...\n<b>nenhum de vocês dos jogará na próxima rodada.</b>",
+        "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>ATENÇÃO! TORNADO PARA OZ PASSANDO...</b>\nEscolha um jogador para embaralhar todas as cartas da sua mão com as que ainda não foram retiradas do deck de armas e refazer a sua mão com um novo sorteio.",
+        "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>QUE A FORÇA ESTEJA COM VOCÊ!</b>\nVocê duelará com o lado oposto da força, ou seja, o jogador que estiver mais distante da sua posição no tabuleiro."
       ]
     },
     {
@@ -91,14 +91,15 @@
       "ativo": false,
       "descricao": "Expansão com frases natalinas e temas festivos.",
       "frases": [
-        "<b><color=#FF4444>Baralho Natalino</color></b>\n<b>HO HO HO!</b>\nTodos os jogadores trocam de posição no tabuleiro em sentido horário.",
-        "<b><color=#FF4444>Baralho Natalino</color></b>\n<b>ESPERA, ESSE PRESENTE É MEU!</b>\nRoube uma arma de qualquer jogador.",
-        "<b><color=#FF4444>Baralho Natalino</color></b>\n<b>CEIA DE NATAL</b>\nHora de se comparar com os primos e ver quem conquistou mais coisas neste ano. Todos os jogadores se unem em um duelo coletivo. Quem tiver a maior arma avança 2 casas.",
-        "<b><color=#FF4444>Baralho Natalino</color></b>\n<b>VOCÊ NÃO FOI UM BOM MENINO!</b>\n<b>Volte duas casas</b> e seja melhor daqui para frente!"
+        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>HO HO HO!</b>\nTodos os jogadores trocam de posição no tabuleiro em sentido horário.",
+        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>ESPERA, ESSE PRESENTE É MEU!</b>\nRoube uma arma de qualquer jogador.",
+        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>CEIA DE NATAL</b>\nHora de se comparar com os primos e ver quem conquistou mais coisas neste ano. Todos os jogadores se unem em um duelo coletivo. Quem tiver a maior arma avança 2 casas.",
+        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>VOCÊ NÃO FOI UM BOM MENINO!</b>\n<b>Volte duas casas</b> e seja melhor daqui para frente!"
       ]
     }
   ]
 }
+
 
 
 
