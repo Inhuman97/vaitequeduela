@@ -91,13 +91,14 @@
       "ativo": false,
       "descricao": "Expansão com frases natalinas e temas festivos.",
       "frases": [
-        "🎄Natalino\n<b>HO HO HO!</b>\nTodos os jogadores trocam de posição no tabuleiro em sentido horário.",
-        "🎄Natalino\n<b>ESPERA, ESSE PRESENTE É MEU!</b>\nRoube uma arma de qualquer jogador.",
-        "🎄Natalino\n<b>CEIA DE NATAL</b>\nHora de se comparar com os primos e ver quem conquistou mais coisas neste ano. Todos os jogadores se unem em um duelo coletivo. Quem tiver a maior arma avança 2 casas.",
-        "🎄Natalino\n<b>VOCÊ NÃO FOI UM BOM MENINO!</b>\n<b>Volte duas casas</b> e seja melhor daqui para frente!"
+        "<b><color=#FF4444>Baralho Natalino</color></b>\n<b>HO HO HO!</b>\nTodos os jogadores trocam de posição no tabuleiro em sentido horário.",
+        "<b><color=#FF4444>Baralho Natalino</color></b>\n<b>ESPERA, ESSE PRESENTE É MEU!</b>\nRoube uma arma de qualquer jogador.",
+        "<b><color=#FF4444>Baralho Natalino</color></b>\n<b>CEIA DE NATAL</b>\nHora de se comparar com os primos e ver quem conquistou mais coisas neste ano. Todos os jogadores se unem em um duelo coletivo. Quem tiver a maior arma avança 2 casas.",
+        "<b><color=#FF4444>Baralho Natalino</color></b>\n<b>VOCÊ NÃO FOI UM BOM MENINO!</b>\n<b>Volte duas casas</b> e seja melhor daqui para frente!"
       ]
     }
   ]
 }
+
 
 
