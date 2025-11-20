@@ -80,10 +80,10 @@
       "ativo": false,
       "descricao": "Cartas inspiradas em filmes, séries e cultura nerd.",
       "frases": [
-        "<b>EU SOU O HOMEM DE FERRO!</b>\nUse esta carta para vencer qualquer duelo, mas ela será destruída após o uso.",
-        "<b>VOCÊ NÃO PASSARÁ!</b>\nBloqueie o avanço de um oponente, mas...\n como toda magia tem um preço...\n<b>nenhum de vocês dos dois avança.</b>",
-        "<b>ATENÇÃO! TORNADO PARA OZ PASSANDO...</b>\nEscolha um jogador para trocar todas as suas armas com você.",
-        "<b>QUE A FORÇA ESTEJA COM VOCÊ!</b>\nVocê duelará com o lado oposto da força, ou seja, o jogador que estiver mais distante da sua posição no tabuleiro."
+        "🧙 Geek\n<b>EU SOU INEVITAVEL!</b>\nO animal que jogou antes de você selecionará metade das armas da sua mão, mas sem espiar, para serem descartadas em um esralar de dedos.\nPerfeitamente balanceado!.",
+        "🧙 Geek\n<b>VOCÊ NÃO PASSARÁ!</b>\nBloqueie o avanço de um oponente, mas...\n como toda magia tem um preço...\n<b>nenhum de vocês dos jogará na próxima rodada.</b>",
+        "🧙 Geek\n<b>ATENÇÃO! TORNADO PARA OZ PASSANDO...</b>\nEscolha um jogador para embaralhar todas as cartas da sua mão com as que ainda não foram retiradas do deck de armas e refazer a sua mão com um novo sorteio.",
+        "🧙 Geek\n<b>QUE A FORÇA ESTEJA COM VOCÊ!</b>\nVocê duelará com o lado oposto da força, ou seja, o jogador que estiver mais distante da sua posição no tabuleiro."
       ]
     },
     {
