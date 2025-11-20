@@ -1,7 +1,7 @@
 {
   "info": {
-    "versao": "2.6",
-    "ultima_atualizacao": "2025-11-20",
+    "versao": "3.0",
+    "ultima_atualizacao": "2025-11-21",
     "observacao": "Modelo definitivo com suporte a múltiplas categorias e expansões."
   },
 
@@ -177,6 +177,7 @@
     }
   ]
 }
+
 
 
 
