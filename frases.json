@@ -94,22 +94,22 @@
       "ativo": false,
       "descricao": "Cartas inspiradas em filmes, séries e cultura nerd.",
       "frases": [
-        "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>EU SOU INEVITAVEL!</b>\nO animal que jogou antes de você selecionará metade das armas da sua mão, mas sem espiar, para serem descartadas em um esralar de dedos.\nPerfeitamente balanceado!",
+        "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>EU SOU INEVITAVEL!</b>\nO animal que jogou antes de você selecionará metade das armas da sua mão, mas sem espiar, para serem descartadas em um estalar de dedos.\nPerfeitamente balanceado!",
         "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>VOCÊ NÃO PASSARÁ!</b>\nBloqueie o avanço de um oponente, mas...\n como toda magia tem um preço...\n<b>nenhum de vocês dos jogará na próxima rodada.</b>",
-        "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>ATENÇÃO! TORNADO PARA OZ PASSANDO...</b>\nEscolha um jogador para embaralhar todas as cartas da sua mão com as que ainda não foram retiradas do deck de armas e refazer a sua mão com um novo sorteio.",
+        "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>ATENÇÃO! TORNADO PARA OZ PASSANDO...</b>\nEscolha um jogador para embaralhar todas as cartas da sua mão com as que ainda não foram retiradas do deck de armas e refazer a sua mão após o tornado passar.",
         "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>QUE A FORÇA ESTEJA COM VOCÊ!</b>\nVocê duelará com o lado oposto da força, ou seja, o jogador que estiver mais distante da sua posição no tabuleiro.",
-        "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>DRACARYS!</b>\nVocê escolhe um oponente para sentir o calor do momento.\nEle descarta a arma mais forte da mão.",
-        "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>EU SOU GROOT.</b>\nE todos entenderam o recado.\n<b>Todos os jogadores descartam a carta do meio da própria mão.</b>",
-        "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>PELO PODER DE GREYSKULL!\nEU TENHO A FORÇA!!</b>\nA magia ancestral te favorece.\n<b>Duele contra todos os animais nesta rodada, todas as armas na sua mão recebem +1 de dano nesta rodada.</b>",
+        "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>DRACARYS!</b>\nVocê escolhe um animal para sentir o fogo do dragão.\nEle descarta a arma mais forte da mão.",
+        "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>EU SOU GROOT.</b>\nTodos entenderam o recado, né?.\n<b>Todos os jogadores descartam a carta do meio da própria mão.</b>",
+        "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>PELO PODER DE GREYSKULL!\nEU TENHO A FORÇA!!</b>\nA magia ancestral te favorece.\n<b>Duele contra todos os animais nesta rodada, todas as armas na sua mão recebem +2 de dano nesta rodada.</b>",
         "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>UM ANEL PARA TODOS ZUAR...</b>\nMostre uma arma da sua mão.\nTodos os jogadores devem mostrar uma carta também à sua escolha.\n<b>Quem tiver o menor valor volta 1 casa.</b>",
         "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>FUS RO DAH!</b>\nSeu grito é tão poderoso que…\n<b>Todos os jogadores ao seu lado no tabuleiro voltam 1 casa.</b>",
-        "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>DIGIEVOLUÇÃO!</b>\nVocê evoluiu.\n<b>Troque qualquer arma da mão por uma nova do topo do deck.</b>",
+        "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>DIGIEVOLUÇÃO!</b>\nVocê evoluiu.\n<b>Troque qualquer arma da mão por uma nova do topo do deck de armas.</b>",
         "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>QUE OS JOGOS COMEÇEM!\nE QUE A SORTE ESTEJA AO SEU FAVOR, TRIBUTOS!</b>\nSelecione um jogador para duelar.\nO tipo de arma será definido por você.\n<b>Em caso de empate, vence quem argumentar melhor.</b>",
-        "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>FATALITY!</b>\nVocê escolhe um oponente nesta rodada para duelar contra você.\n<b>Quem perder deverá descartar todas as suas cartas de armas e pegar novas no Deck de Armas.</b>",
+        "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>FATALITY!</b>\nVocê escolhe um oponente nesta rodada para duelar contra você.\n<b>Quem perder deverá descartar todas as suas cartas de armas, pegar novas no Deck de Armas e ficará sem participar da próxima rodada.</b>",
         "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>RECARREGANDO…</b>\nSua munição acabou no pior momento.\n<b>Pule sua vez, mas na próxima rodada compre 1 arma extra.</b>",
-        "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>BAMF!\nTeleportador mutante avistado!</b>\nO azulão passou por aqui e te deu uma mãozinha.\n<b>Troque de posição no tabuleiro com qualquer jogador.</b>",
-        "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>O MANDALORIANO NÃO ERRA.</b>\nEscolha um jogador.\n<b>Ele não poderá duelar na rodada atual.</b>",
-        "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>BATERIA FRACA… IGUAL SUAS ESCOLHAS.</b>\nFeche seus olhos, embaralhe as suas cartas e <b>troque 3 das suas armas por cartas novas</b>.",
+        "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>BAMF!\nTeleportador mutante avistado!</b>\nO azulão passou por aqui e te deu uma mãozinha.\n<b>Troque de posição no tabuleiro com qualquer jogador.\n(Troca obrigatória)</b>",
+        "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>O MANDALORIANO NÃO ERRA.</b>\nEscolha um jogador.\nTodos duelam nesta rodada<b>mas ele não poderá duelar na rodada atual.</b>",
+        "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>BATERIA FRACA… IGUAL SUAS ESCOLHAS.</b>\nFeche seus olhos, embaralhe as suas cartas e <b>selecione 3 das suas armas para trocar por cartas novas</b>.",
         "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>KAMEHAMEHAAAA!</b>\nSolte a energia.\n<b>Todos os jogadores duelam apenas com itens eletrônicos.</b>",
         "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>VOCÊ É UM BRUXO, Ô ANIMAL!</b>\nMagia instável.\n<b>Escolha: avançar 1 casa OU comprar 2 armas.</b>"
       ]
@@ -119,30 +119,30 @@
       "ativo": false,
       "descricao": "Expansão com frases natalinas e temas festivos.",
       "frases": [
-        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>HO HO HO!</b>\nTodos os jogadores trocam de posição no tabuleiro em sentido horário.",
-        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>ESPERA, ESSE PRESENTE É MEU!</b>\nRoube uma arma de qualquer jogador.",
-        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>CEIA DE NATAL</b>\nHora de se comparar com os primos e ver quem conquistou mais coisas neste ano. Todos os jogadores se unem em um duelo coletivo. Quem tiver a maior arma avança 2 casas.",
+        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>HO HO HO!</b>\nTodos os animais trocam de posição no tabuleiro em sentido horário.",
+        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>ESPERA, ESSE PRESENTE É MEU!</b>\nRoube uma arma de qualquer animal.",
+        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>CEIA DE NATAL</b>\nHora de se comparar com os primos e ver quem conquistou mais coisas neste ano. Todos os jogadores se unem em um duelo coletivo. Quem tiver a maior arma, avança 2 casas.",
         "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>VOCÊ NÃO FOI UM BOM MENINO!</b>\n<b>Volte duas casas</b> e seja melhor daqui para frente!",
-        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>PAPAI NOEL TRAVOU NA CHAMINÉ!</b>\nO jogador mais alto da mesa deve ajudar… e perde a vez por isso.",
-        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>AMIGO OCULTO DE 20 REAIS</b>\nTodos trocam uma arma aleatória com o jogador da direita.\nSe vier meia… azar.\nFique exatamente onde está e repense suas amizades.",
-        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>AMIGO SECRETO DO CAOS</b>\nCada jogador escolhe aleatoriamente uma arma da própria mão para dar ao jogador da direita.",
-        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>ARROZ COM PASSAS, SAI DAQUI!</b>\nEscolha um jogador para descartar a arma mais fraca.\nAfinal, ninguém merece essa decepção.",
-        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>RENAS EM FÚRIA!</b>\nO jogador mais rápido (quem levantar a mão primeiro) avança 1 casa.\nTodos os outros duelam.\n1...2...3...Já!",
-        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>O GRINCH APARECEU!</b>\nTodos os jogadores descartam a arma de maior valor.\nE sim... eu sei que dói.",
+        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>PAPAI NOEL TRAVOU NA CHAMINÉ!</b>\nO jogador mais alto da mesa deve ajudar… e perde a vez por isso. Mas pelo bom gesto, ele ganha uma carta extra.",
+        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>AMIGO OCULTO DE 2O REAIS</b>\nTodos trocam uma arma aleatória com o jogador da esquerda.\nSe vier meia… ou perder… que pena!\nFique exatamente onde está e repense suas amizades.",
+        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>TROCA DE PRESENTES NA EMPRESA</b>\nVocê não tem como fugir!\nCada jogador escolhe aleatoriamente uma arma da própria mão para dar ao jogador da direita.",
+        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>ARROZ COM PASSAS, SAI DAQUI!</b>\nEscolha um anima para descartar a arma mais fraca em sua pata.\nAfinal, ninguém merece essa decepção.",
+        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>RENAS EM FÚRIA!</b>\nO jogador mais rápido (quem levantar a mão primeiro) avança 1 casa.\nTodos os outros duelam por uma chance de avançar também.\n1...2...3...Já!",
+        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>O GRINCH APARECEU!</b>\ne ele roubou a arma de maior valor da mão de todos os jogadores.\nE sim... eu sei que dói.",
         "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>PISCA-PISCA DEFEITUOSO</b>\nA mesa inteira duela usando apenas armas da categoria que brilha mais.\nVocês decidem o que brilha mais.",
-        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>NOITE FELIZ… OU QUASE</b>\nO jogador que cantar o trecho mais bonito de 'Noite Feliz' avança 1 casa.\nSe todos se recusarem, ninguém avança.",
-        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>CHOCOTONE VS PANETTONE</b>\nEscolham lados.\n*Segredinho nosso hein*:\nO grupo que tiver mais pessoas não precisa duelar.\nMas o grupo dos que têm paladar ruim duela entre si.\nO vencedor fica onde está e os perdedores voltam 1 casa.",
-        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>RENAS TURBINADAS</b>\nVocê avança até o jogador que estiver imediatamente à sua frente.\nSe já estiver colado, avance 1 casa mesmo assim.",
-        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>É PRA CUMÊ OU PRA PASSÁ?</b>\nVocê fez a clássica piada do pavê.\nTodo mundo suspira… mas você avança 1 casa por coragem.",
-        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>TEVE BRIGA NO GRUPO DA FAMÍLIA!</b>\nTodos os jogadores perdem 1 turno, exceto você — que só observa e come rabanada.",
+        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>NOITE FELIZ… OU QUASE</b>\nO jogador que cantar o trecho mais bonito de 'Noite Feliz', avança 1 casa.\nSe todos se recusarem, ninguém avança.",
+        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>CHOCOTONE VS PANETTONE</b>\nEscolham seus lados.\n*Segredinho nosso hein\n Revele esta informação após os lados serem definidos*:\nO grupo que tiver mais pessoas não precisa duelar.\nMas o grupo dos que têm paladar ruim duela entre si.\nO vencedor fica onde está e os perdedores voltam 1 casa.",
+        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>BORA VISITAR OS PARENTES!</b>\nVocê avança até o jogador que estiver imediatamente à sua frente.\nSe já estiver colado, avance 1 casa mesmo assim.",
+        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>É PRA CUMÊ OU PRA PASSÁ?</b>\nVocê fez a clássica piada do pavê.\nTodo revira os olhos…\nSuspira…\n mas você avança 1 casa pela coragem coragem.",
+        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>TEVE BRIGA NO GRUPO DA FAMÍLIA!</b>\nTodos os jogadores perdem 1 turno, exceto você — que só observa e come salpicão no cantinho da sala.",
         "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>CALOR DESGRAÇADO!</b>\nNinguém duela nesta rodada.\nEstá todo mundo suando demais pra brigar.",
-        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>TIA FOFOQUEIRA EM AÇÃO</b>\nEscolha um jogador para revelar TODAS as armas.\nEla sempre descobre tudo mesmo.\nMas ninguém duela nesta rodada.",
+        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>TIA FOFOQUEIRA EM AÇÃO</b>\nEscolha um jogador para revelar TODAS as armas.\nA tia sempre descobre tudo mesmo.\nMas ninguém duela nesta rodada.",
         "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>AI MEU JESUS, QUE CRIANÇA LINDA!</b>\nVovó não tem favoritos, mas ela te favorece sem motivo.\n*piscadinha*\nAvance 1 casa gratuitamente.",
         "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>RABANADA SEM FIM</b>\nÉ tão doOCEEE!\nVocê ganha tanta energia que avança 2 casas.",
-        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>O TIO DA PINGUÇO ESTÁ CHEGANDO!</b>\nO jogador mais velho avança 1 casa.\nTradição é tradição.",
-        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>VÓ DISTRIBUIU AS NOTAS DE 50</b>\nO jogador com menos casas avança 2.\nA vó ajuda quem precisa.",
+        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>O TIO PINGUÇO ESTÁ CHEGANDO!</b>\nO jogador mais velho avança 1 casa.\nTradição é tradição.",
+        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>VOVÔ DISTRIBUIU AS NOTAS DE 5O</b>\nO jogador com menos casas avança 2.\nVovô ajuda a quem precisa.",
         "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>O PRIMO FITNESS CHEGOU</b>\nTodos os jogadores menos você descartam uma arma de 'calorias altas'.",
-        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>ÁRVORE TORTA DA AMERICANAS</b>\nSua decoração caiu e você perde 1 casa.\nTriste, mas real.\nQuem mandou economizar na decoração?"
+        "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>ÁRVORE TORTA DAS AMERICANAS</b>\nSua decoração caiu no meio da ceia e você perde 1 casa pelo vexame.\nTriste, mas real.\nQuem mandou economizar na decoração?"
       ]
     },
     {
@@ -177,6 +177,7 @@
     }
   ]
 }
+
 
 
 
