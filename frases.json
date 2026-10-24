@@ -1,12 +1,12 @@
 {
   "info": {
-    "versao": "3.2",
-    "ultima_atualizacao": "2025-11-23",
+    "versao": "3.3",
+    "ultima_atualizacao": "2026-10-23",
     "observacao": "Modelo definitivo com suporte a múltiplas categorias e expansões."
   },
-
   "categorias": [
     {
+      "id": "base",
       "nome": "Base - Jogo Original",
       "ativo": true,
       "descricao": "O baralho principal do jogo, com os ditados e frases originais.",
@@ -60,9 +60,11 @@
         "<b>AS APARÊNCIAS ENGANAM…</b>\nAtenção, animal: \nSe você estiver em uma casa de número par, volte 1 casa; se estiver em uma casa de número ímpar, avance 1 casa.",
         "<b>O QUE NÃO TE MATA, TE FAZ MAIS FORTE</b>\nGuarde esta carta e use quando quiser vencer um duelo que você perderia, se não tivesse essa carta, claramente.\nEsta carta só pode ser usada uma única vez e é intransferível.\nUSO ÚNICO",
         "<b>ELA TÁ TÃO NA SUUUUUUAA!!</b>\nEscolha um jogador para receber o presente de avançar uma casa — mas sem segundas intenções, ok?\n*piscadinha*"
-      ]
+      ],
+      "obrigatoria": true
     },
     {
+      "id": "animacoes",
       "nome": "Baralho de Animações",
       "ativo": false,
       "descricao": "Expansão com frases baseadas no mundo animado.",
@@ -87,9 +89,11 @@
         "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>HORA DE VIRAR HERÓI!</b>\nCom o Omnitrix sobrecarregado, todas as suas cartas ganham +2 de poder.\nTodos duelam nesta rodada, mas escolha rápido.\nSeu bônus acaba se algum animal soletrar OMNITRIX antes de você escolher sua carta.",
         "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>MISTÉRIO S/A NA ÁREA!</b>\nO jogador com a “cara mais suspeita” deve duelar com o jogador “mais inocente”.\nVocê escolhe os dois. Quem vencer ganha um biscoito Scooby... Ops!... avança uma casa.",
         "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>VOCÊ VIU O PERRY?</b>\nO jogador mais distraído do grupo perde 1 arma aleatória da mão.\nVocê avança 1 casa por estar mais atento."
-]
+      ],
+      "obrigatoria": false
     },
     {
+      "id": "geek",
       "nome": "Baralho Geek",
       "ativo": false,
       "descricao": "Cartas inspiradas em filmes, séries e cultura nerd.",
@@ -112,9 +116,11 @@
         "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>BATERIA FRACA… IGUAL SUAS ESCOLHAS.</b>\nFeche seus olhos, embaralhe as suas cartas e <b>selecione 3 das suas armas para trocar por cartas novas</b>.",
         "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>KAMEHAMEHAAAA!</b>\nSolte a energia!\n<b>Todos os jogadores duelam apenas com itens eletrônicos</b>.",
         "<size=80%><b><color=#66CCFF>Baralho Geek</color></b></size>\n<b>VOCÊ É UM BRUXO, Ô ANIMAL!</b>\nMagia instável.\n<b>Escolha: avançar 1 casa OU comprar 2 armas</b>."
-      ]
+      ],
+      "obrigatoria": false
     },
     {
+      "id": "natalino",
       "nome": "Baralho Natalino",
       "ativo": false,
       "descricao": "Expansão com frases natalinas e temas festivos.",
@@ -143,9 +149,11 @@
         "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>VOVÔ DISTRIBUIU AS NOTAS DE 5O</b>\nO jogador com menos casas avança 2.\nVovô ajuda a quem precisa.",
         "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>O PRIMO FITNESS CHEGOU</b>\nE criticou teus hábitos alimentares e a comida no teu prato.\nTodos os jogadores menos você descartam uma arma de 'calorias altas'.",
         "<size=80%><b><color=#FF4444>Baralho Natalino</color></b></size>\n<b>ÁRVORE TORTA DAS AMERICANAS</b>\nSua decoração caiu no meio da ceia e você volta 1 casa pelo vexame.\nTriste, mas real.\nQuem mandou economizar na decoração?"
-      ]
+      ],
+      "obrigatoria": false
     },
     {
+      "id": "gospel",
       "nome": "Baralho Gospel",
       "ativo": false,
       "descricao": "Frases baseadas em experiências dentro da igreja.",
@@ -172,23 +180,8 @@
         "<size=80%><b><color=#AA77FF>Baralho Gospel</color></b></size>\n<b>CHAMARAM VOCÊ PARA DAR UM TESTEMUNHO</b>\nMas você não estava preparado.\nEmbaralhe completamente sua mão e compre 1 carta extra para compensar o nervosismo.",
         "<size=80%><b><color=#AA77FF>Baralho Gospel</color></b></size>\n<b>ELIAS VS OS PROFETAS DE BAAL</b>\nDuele contra todos os jogadores.\nSe vencer, avance 2 casas.\nSe perder… talvez seja hora de fugir pra caverna e voltar 1.",
         "<size=80%><b><color=#AA77FF>Baralho Gospel</color></b></size>\n<b>MURO DE JERICÓ</b>\nToque as trombetas!\nTodos os jogadores duelam simultaneamente.\nO bicho com a carta de menor valor volta 1 casa, o que tem a de maior valor avança 1, o resto fica só de testemunha."
-        ]
-
+      ],
+      "obrigatoria": false
     }
   ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
