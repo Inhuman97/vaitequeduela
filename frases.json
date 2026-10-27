@@ -1,10 +1,9 @@
 {
   "info": {
-    "versao": "3.2",
+    "versao": "3.2.2",
     "ultima_atualizacao": "2025-11-23",
-    "observacao": "Modelo definitivo com suporte a múltiplas categorias e expansões."
+    "observacao": "Modelo definitivo com suporte a múltiplas categorias e expansões. Gerado pela ferramenta web."
   },
-
   "categorias": [
     {
       "nome": "Base - Jogo Original",
@@ -13,7 +12,7 @@
       "frases": [
         "<b>O PAU COMEU E VOCÊ CORREU!</b> \nEnquanto os outros jogadores duelavam, você, O ESPERTINHO, <b>avançou 1 casa</b>.",
         "<b>VAI PENSANDO QUE O JOGO TÁ GANHO...</b> \nDuele com o animal que estiver mais próximo ao Panteão dos Magos do Tempo.\nSe dois ou mais jogadores estiverem nesta posição, duele com o mais iludido.",
-        "<b>VAI TÊ QUE DUELÁ #DIY (faça você mesmo)</b>\nVocê e mais 2 jogadores à sua escolha duelam simultaneamente, usando apenas armas caseiras. O vencedor avança 2 casas, o segundo avança 1, já o terceiro… melhore para a próxima rodada.",
+        "<b>VAI TÊ QUE DUELÁ #D.I.Y. (faça você mesmo)</b>\nVocê e mais 2 jogadores à sua escolha duelam simultaneamente, usando apenas armas caseiras. O vencedor avança 2 casas, o segundo avança 1, já o terceiro… melhore para a próxima rodada.",
         "<b>E O VENTO LEVOU…</b>\na sua chance de jogar.\nRespire e não pire.\n<b>Passe a vez para um animal à sua escolha.</b>",
         "<b>HÁ MALES QUE VÊM PARA O BEM</b>\nVocê e todos os demais jogadores passam suas armas para o jogador à sua direita.",
         "<b>O LIXO DE UM É O OURO DOS OUTROS</b>\nDuele com o animal que estiver mais distante do Panteão dos Magos do Tempo utilizando a sua arma de menor valor.\nSe dois ou mais jogadores estiverem nesta posição, duele com o mais brilhante.",
@@ -68,26 +67,31 @@
       "descricao": "Expansão com frases baseadas no mundo animado.",
       "frases": [
         "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>AO INFINITO E ALÉM!</b>\nVocê avança 1 casa.",
-        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>AMIGO ESTOU AQUI</b>\nVocê e outro jogador escolhido por você avançam juntos 1 casa.",
-        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>HAKUNA MATATA!</b>\nSeus probleeemas, você deve esqueceeeer...\nEntão relaxe!\nNinguém duela nesta rodada.",
-        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>LIVRE ESTOOOU!</b>\nE está mesmo...\n...da sua vez de jogar.\nFique onde está",
+        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>AMIGO ESTOU AQUI</b>\nVocê e outro jogador, escolhido por você, avançam juntos 1 casa.",
+        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>HAKUNA MATATA!</b>\nSeus probleeemas, você deve esqueceeeer...\nEntão relaxe!\nNinguém duela nesta rodada...\nmas ninguém avança também.",
+        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>LIVRE ESTOOOU!</b>\nE está mesmo...\n...da sua vez de jogar.\nFique onde está floquinho de neve!",
         "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>MIRABEL SEMPRE ESTEVE CERTA!</b>\nTodos duelam apenas com coisas da 'casita', ou seja, itens domésticos.",
         "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>EU GOSTO DE ABRAÇOS QUENTINHOS!</b>\nTodos os animais duelam apenas com <b>itens inflamáveis</b>.",
         "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>SUBA! AVENTURA ESTÁ LÁ FORA!</b>\nEscolha um jogador para subir com você.\nAmbos avançam 1 casa.\n(Bexigas não incluídas.)",
-        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>OHANA QUER DIZER FAMÍLIA</b>\nFamília quer dizer… *frase famosa aqui*\nO jogador mais distante do Panteão avança 1 casa.\nSe mais de um estiver na mesma posição, ambos avançam.\nFamília é isso aí.",
-        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>BIBBIDI-BOBBIDI-BUM!</b>\nTodos duelam! Não conte para madrasta nem para os demias jogadores.\nTransforme qualquer arma sua em um coringa apenas nesta rodada.\n(Sem garantias de que não virará uma abóbora depois.)",
+        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>OHANA QUER DIZER FAMÍLIA</b>\nFamília quer dizer…\n*frase famosa aqui*\nO jogador mais distante do Panteão avança 1 casa.\nSe mais de um estiver na mesma posição, ambos avançam.\nFamília é isso aí.",
+        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>BIBBIDI-BOBBIDI-BUM!</b>\nTodos duelam! Não conte para madrasta nem para os demias jogadores.\nTransforme qualquer arma sua em um coringa apenas nesta rodada.\n(Talvez a arma vire uma abóbora depois...)",
         "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>KATCHAWWN! EU SOU A VELOCIDADE!</b>\nO jogador mais rápido, eu mesmo, avança 2 casas.\nE vocês comem poeira.",
         "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>ESSA É A LEI DA SELVA!\nAPENAS O NECESSÁRIO!</b>\nTodos duelam usando apenas armas naturais: madeira, pedra, água e o que mais encontrarem na trilha.",
-        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>OCEANO, ME MOSTRE O CAMINHO!</b>\nVocê avança até ficar lado a lado com o jogador mais próximo do Panteão.\nSe já estiver ao lado dele… avance 1 casa extra para mostrar quem manda.",
-        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>RATATOUILLE APROVA!</b>\nO jogador que cozinhar melhor na vida real, decidam aí, avança 1 casa.\nEnquanto isso, você, ratazana, rouba uma carta aleatória dele.\nBon appétit.",
-        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>EU SOU A PRINCESA GUERREIRA!</b>\nVocê pode duelar com qualquer arma na mão...\nMas se perder, volte 2 casas por excesso de confiança.",
-        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>Ô POKÉ-BICHÃO! EU ESCOLHO… VOCÊ!</b>\nO jogador mais energético do grupo, julguem aí, deve enfrentar você num duelo direto.\nO vencedor avança 1 casa.",
-        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>KA-CHOW!</b>\nUtilize o poder do Honmoon e seja <b>LETAL</b> contra um inimigo à sua escolha.\nDuelem utilizando apenas armas.\nO perdedor volta 2 casas e o vencedor avança 1.",
-        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>MEU MALVADO FAVORITO!</b>\nEscolha um jogador para “roubar a lua”.\nVocê pega a arma de maior valor da mão dele.\nEle ganha um banana-minion imaginário de consolação.",
-        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>HORA DE VIRAR HERÓI!</b>\nCom o Omnitrix sobrecarregado, todas as suas cartas ganham +2 de poder.\nTodos duelam nesta rodada, mas escolha rápido.\nSeu bônus acaba se algum animal soletrar OMNITRIX antes de você escolher sua carta.",
-        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>MISTÉRIO S/A NA ÁREA!</b>\nO jogador com a “cara mais suspeita” deve duelar com o jogador “mais inocente”.\nVocê escolhe os dois. Quem vencer ganha um biscoito Scooby... Ops!... avança uma casa.",
-        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>VOCÊ VIU O PERRY?</b>\nO jogador mais distraído do grupo perde 1 arma aleatória da mão.\nVocê avança 1 casa por estar mais atento."
-]
+        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>OCEANO, ME MOSTRE O CAMINHO!</b>\nVocê avança até ficar lado a lado com o jogador mais próximo do Panteão.\nSe já estiver ao lado dele… avance 1 casa extra para mostrar quem manda em Motonui.",
+        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>RATATOUILLE APROVA!</b>\nVocê e o jogador que está no esgoto da vida\n(mais distante do panteão)\nduelam utilizando armas que serviriam como utensílios de cozinha.",
+        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>EU SOU A PRINCESA GUERREIRA!</b>\nVocê pode duelar com qualquer arma na mão contra um oponente sorteado pela roleta...\nMas se perder, volte 2 casas por excesso de confiança.",
+        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>Ô POKE-BICHÃO! EU ESCOLHO… VOCÊ!</b>\nO jogador mais energético do grupo, julguem aí, deve enfrentar você num duelo direto.\nO vencedor avança 2 casas.",
+        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>CHEGA DE ESCONDER O BRILHO!</b>\nUtilize o poder do Honmoon e seja <b>LETAL</b> contra um inimigo à sua escolha.\nDuelem utilizando apenas armas reais.\nO perdedor volta 2 casas e o vencedor avança 1.",
+        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>MEU MALVADO FAVORITO!</b>\nEscolha um jogador para “roubar a lua”.\nVocê pega a arma de maior valor da mão dele.\nEle ganha uma banana-minion imaginária de consolação.",
+        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>HORA DE VIRAR HERÓI!</b>\nCom o Omnitrix sobrecarregado, todas as suas cartas ganham +2 de poder.\nTodos duelam nesta rodada, mas escolha rápido.\nObs:\nSeu bônus acaba se algum animal soletrar OMNITRIX antes de você escolher sua carta.",
+        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>MISTÉRIO S.A. NA ÁREA!</b>\nO jogador com a “cara mais suspeita” deve duelar com o jogador “mais inocente”.\nVocê escolhe os dois. Quem vencer ganha um biscoito Scooby... Ops!... avança uma casa.",
+        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>VOCÊ VIU O PERRY?</b>\nO jogador mais distraído do grupo perde 1 arma aleatória da mão.\nVocê avança 1 casa por estar mais atento.",
+        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>MAÇÃ ENFEITIÇADA!</b>\nQuem diria que essa linda maçã estava envenenada...\nEscolha um jogador para voltar uma casa.",
+        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>VOCÊ NUNCA TEVE AMIGO ASSIM!</b>\nO Gênio mágico está do seu lado e vai realizar o seu desejo!\nEscolha o tipo de armas para este duelo\nOpa... você não foi específico no desejo, seu oponente será definido pela roleta do caos!\n\n",
+        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>MAIOR ACUMULADORA DOS SETE MARES!</b>\nEstas coisas estranhas e curiosas,\npara mim são bonitas demais...\nPegue 1 cara de cada um dos seus oponentes e adicione à sua coleção.\n(Você fica sem comprar cartas até que volte a ter a quantidade padrão.)",
+        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>VAMOS À BATALHA!</b>\nGuerrear, vencer!\nAinda bem que o Mushu está aqui pra te ajudar, duele contra dois oponentes sorteados pela roleta, se a sua arma for feita de um material inflamável, some 2 pontos a ela ao valor dela.",
+        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>FAZ O URRO!</b>\nO urro foi tão forte que paralisou todos de medo, menos a você que é o fã Nº1 do ogro.\nAvance 1 casa!"
+      ]
     },
     {
       "nome": "Baralho Geek",
@@ -172,23 +176,7 @@
         "<size=80%><b><color=#AA77FF>Baralho Gospel</color></b></size>\n<b>CHAMARAM VOCÊ PARA DAR UM TESTEMUNHO</b>\nMas você não estava preparado.\nEmbaralhe completamente sua mão e compre 1 carta extra para compensar o nervosismo.",
         "<size=80%><b><color=#AA77FF>Baralho Gospel</color></b></size>\n<b>ELIAS VS OS PROFETAS DE BAAL</b>\nDuele contra todos os jogadores.\nSe vencer, avance 2 casas.\nSe perder… talvez seja hora de fugir pra caverna e voltar 1.",
         "<size=80%><b><color=#AA77FF>Baralho Gospel</color></b></size>\n<b>MURO DE JERICÓ</b>\nToque as trombetas!\nTodos os jogadores duelam simultaneamente.\nO bicho com a carta de menor valor volta 1 casa, o que tem a de maior valor avança 1, o resto fica só de testemunha."
-        ]
-
+      ]
     }
   ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
