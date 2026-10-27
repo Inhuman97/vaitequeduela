@@ -1,6 +1,6 @@
 {
   "info": {
-    "versao": "3.3.0",
+    "versao": "3.3.1",
     "ultima_atualizacao": "2025-11-23",
     "observacao": "Modelo definitivo com suporte a múltiplas categorias e expansões. Gerado pela ferramenta web."
   },
@@ -88,7 +88,7 @@
         "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>VOCÊ VIU O PERRY?</b>\nO jogador mais distraído do grupo perde 1 arma aleatória da mão.\nVocê avança 1 casa por estar mais atento.",
         "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>MAÇÃ ENFEITIÇADA!</b>\nQuem diria que essa linda maçã estava envenenada...\nEscolha um jogador para voltar uma casa.",
         "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>VOCÊ NUNCA TEVE AMIGO ASSIM!</b>\nO Gênio mágico está do seu lado e vai realizar o seu desejo!\nEscolha o tipo de armas para este duelo\nOpa... você não foi específico no desejo, seu oponente será definido pela roleta do caos!\n\n",
-        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>MAIOR ACUMULADORA DOS SETE MARES!</b>\nEstas coisas estranhas e curiosas,\npara mim são bonitas demais...\nPegue 1 cara de cada um dos seus oponentes e adicione à sua coleção.\n(Você fica sem comprar cartas até que volte a ter a quantidade padrão.)",
+        "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>MAIOR ACUMULADORA DOS SETE MARES!</b>\nEstas coisas estranhas e curiosas,\npara mim são bonitas demais...\nPegue 1 carta de cada um dos seus oponentes e adicione à sua coleção.\n(Você fica sem comprar cartas até que volte a ter a quantidade padrão.)",
         "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>VAMOS À BATALHA!</b>\nGuerrear, vencer!\nAinda bem que o Mushu está aqui pra te ajudar, duele contra dois oponentes sorteados pela roleta, se a sua arma for feita de um material inflamável, some 2 pontos a ela ao valor dela.",
         "<size=80%><b><color=#FFDD55>Baralho de Animações</color></b></size>\n<b>FAZ O URRO!</b>\nO urro foi tão forte que paralisou todos de medo, menos a você que é o fã Nº1 do ogro.\nAvance 1 casa!"
       ]
